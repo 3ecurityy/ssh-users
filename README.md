@@ -6,5 +6,5 @@ bash <(curl -Ls https://raw.githubusercontent.com/3ecurityy/ssh-users/main/cu.sh
 ```
 - chmod +x cu.sh
 - run script with ./cu.sh
-- enter username , passwod , date
+- enter username , password , date
 
